@@ -1,0 +1,10 @@
+1.EJERCICIO 1: LA CÉLULA
+Crea un objeto célula mediante literales de objetos. El objeto debe contener valores primitivos
+(números, booleanos y cadenas, por ejemplo) y una función mitosis() que le permita dividirse en
+dos, copiando sus propiedades a los hijos y eliminando las propiedades propias.
+El objeto debe funcionar aunque se le añadan nuevas propiedades de tipo primitivo (no hace falta
+que hagas ninguna comprobación sobre esto)
+No crees constructores, clases... la célula ha de ser un único objeto JavaScript y estar
+autocontenida.
+ Los hijos también deben ser capaces de realizar la mitosis para que pueda
+continuar la línea celular
